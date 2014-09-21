@@ -4,6 +4,8 @@
     <string name="app_name">Paper Rock Scissors</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="playPRS">Play Paper, Rock, Scissors</string>
+    <string name="title_activity_win_lose">WinLoseActivity</string>
+    <string name="play_again">Play Again</string>
+    <string name="menu_title">Paper, Rock, Scissors</string>
 
 </resources>
